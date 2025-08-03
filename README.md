@@ -2,7 +2,7 @@
 A Simple Calculator Web App built using HTML, CSS, and JavaScript.
 # Simple Calculator
 
-A simple calculator built using **HTML**, **CSS**, and **JavaScript**.
+A simple calculator built using **HTML**, **CSS**, and **JavaScript**,**sound.mpeg**.
 
 ## Features
 - Add, subtract, multiply, divide
